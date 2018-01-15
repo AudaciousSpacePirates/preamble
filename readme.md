@@ -30,6 +30,16 @@ Hold closely to places that resonate with you.
 Hold always to truth, logic, and fact.  
 Never forget your bar towel.  
 
+# Purpose  
+This repository exists as a storage place for crew government, guildelines for interaction, and standard operating procedure documnets.  
+
+# License  
+All rights reserved.  
+© 2018 Audacious Space Pirates.  
+All material contained in this repository is licensed for use, redistribution, and modification under _Creative Commons 4.0 Attribution+ShareAlike ([CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/))._  
+
+
+
 # Battlecry Phrases / Pithy Wisdom  
 "Chaos, Order, Balance!"  
 "Breathe, friend. Just keep breathing."
