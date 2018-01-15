@@ -1,5 +1,5 @@
 # Audacious Space Pirates  
-Deploying self-sustaining future, leaving time capsules for our future selves.  
+Deploying a self-sustaining future, leaving time capsules for our future selves.  
 Seeking a better way forward for the self, the pod, the tribe, the community, society, and humanity as a whole.  
 Consent in everything.  
 
