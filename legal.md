@@ -67,7 +67,7 @@ We extend, to you, the reader of this, a chance to parlay with us, as defined in
 
 
 ### Delivery Method(s)  
-* securely email it using our [captain's Keybase key}(mailto:jakimfett@assorted.tech).  
+* securely email it using our [captain's Keybase key](mailto:jakimfett@assorted.tech).  
         _This is our preferred method of delivery._  
 * digitally deposit an encrypted copy into one of our write-only anonymous SFTP dropboxes.  
 * send via post to one of our work locations.  
